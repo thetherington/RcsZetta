@@ -1,0 +1,2854 @@
+{
+  "dataObject": [
+    {
+      "uuid": "423ab588-1d4b-4bfd-8ffb-10635aac7247",
+      "name": "Fly-PM90RB",
+      "callLetters": "PM90RB",
+      "role": "station",
+      "internalId": 1
+    },
+    {
+      "uuid": "628b0a00-734f-4804-b8b4-3b05ad207ba9",
+      "name": "Classic Rock Party-PMCRKP",
+      "callLetters": "PMCRKP",
+      "role": "station",
+      "internalId": 3
+    },
+    {
+      "uuid": "5cb5270f-3f2e-4e57-97a9-3f36be9cb1bb",
+      "name": "Red White & Booze-PMCBAR",
+      "callLetters": "PMCBAR",
+      "role": "station",
+      "internalId": 4
+    },
+    {
+      "uuid": "0487536e-6d2b-48f4-a125-04a7ebe0a698",
+      "name": "90s2KPOP-PM9000",
+      "callLetters": "PM9000",
+      "role": "station",
+      "internalId": 5
+    },
+    {
+      "uuid": "c3b74f82-9de8-457d-a228-7894eef52aab",
+      "name": "Comes Alive-PMLVRK",
+      "callLetters": "PMLVRK",
+      "role": "station",
+      "internalId": 6
+    },
+    {
+      "uuid": "d2926610-dd3d-4c0e-b4e8-1b8fdc6dc512",
+      "name": "Biz 60s-BSSIXT",
+      "callLetters": "BSSIXT",
+      "role": "station",
+      "internalId": 7
+    },
+    {
+      "uuid": "77c0dbda-e188-4831-a840-88acc0b0a997",
+      "name": "Biz 90s-BSNINE",
+      "callLetters": "BSNINE",
+      "role": "station",
+      "internalId": 8
+    },
+    {
+      "uuid": "856cf536-5167-4d64-83c9-938c9ff1c47b",
+      "name": "Biz Taste of Italy-BSITAL",
+      "callLetters": "BSITAL",
+      "role": "station",
+      "internalId": 9
+    },
+    {
+      "uuid": "bd4f174c-1254-45dc-aae6-2a25e4160867",
+      "name": "Biz Lithium-BSALGD",
+      "callLetters": "BSALGD",
+      "role": "station",
+      "internalId": 10
+    },
+    {
+      "uuid": "d3735e34-4dce-4a6f-a397-2e2e12d6399c",
+      "name": "Biz Real Jazz-BSTRJA",
+      "callLetters": "BSTRJA",
+      "role": "station",
+      "internalId": 11
+    },
+    {
+      "uuid": "ae048ee6-32a1-4f87-b07f-296f22831f3e",
+      "name": "60s On 6-PMSIXT",
+      "callLetters": "PMSIXT",
+      "role": "station",
+      "internalId": 12
+    },
+    {
+      "uuid": "1dc9d5c2-7775-46d0-9d3c-e413b0debad9",
+      "name": "Lithium-PMALGD",
+      "callLetters": "PMALGD",
+      "role": "station",
+      "internalId": 13
+    },
+    {
+      "uuid": "427db0a7-2df3-499c-89b7-db1719524679",
+      "name": "90s On 9-PMNINE",
+      "callLetters": "PMNINE",
+      "role": "station",
+      "internalId": 14
+    },
+    {
+      "uuid": "cfbc45ba-cf40-4d8a-810c-053fb28f6dda",
+      "name": "Real Jazz-PMTRJA",
+      "callLetters": "PMTRJA",
+      "role": "station",
+      "internalId": 15
+    },
+    {
+      "uuid": "2a638eef-aa4b-4548-bc7d-6244f587f232",
+      "name": "40s On 4-PMFORT",
+      "callLetters": "PMFORT",
+      "role": "station",
+      "internalId": 16
+    },
+    {
+      "uuid": "3f4c5a83-4743-401b-bf78-3a8e1ba4d972",
+      "name": "50s On 5-PMFIFT",
+      "callLetters": "PMFIFT",
+      "role": "station",
+      "internalId": 17
+    },
+    {
+      "uuid": "cc860fc0-516d-4396-aa71-563cc8497c82",
+      "name": "Bridge-PMBRDG",
+      "callLetters": "PMBRDG",
+      "role": "station",
+      "internalId": 18
+    },
+    {
+      "uuid": "ef7b222c-c490-4859-babe-a5923206b5be",
+      "name": "Biz Bridge-BSBRDG",
+      "callLetters": "BSBRDG",
+      "role": "station",
+      "internalId": 19
+    },
+    {
+      "uuid": "ef3d981f-e9ca-488b-a966-7712557f1acc",
+      "name": "Viva-PMHPOP",
+      "callLetters": "PMHPOP",
+      "role": "station",
+      "internalId": 20
+    },
+    {
+      "uuid": "40ee8f94-6c5d-458f-8a62-ce1641ee24ab",
+      "name": "Blend-PMLTAC",
+      "callLetters": "PMLTAC",
+      "role": "station",
+      "internalId": 21
+    },
+    {
+      "uuid": "7e1f13da-9f14-4cd8-8bc0-bfc9445674c8",
+      "name": "Biz Blend-BSLTAC",
+      "callLetters": "BSLTAC",
+      "role": "station",
+      "internalId": 22
+    },
+    {
+      "uuid": "e129a707-f499-4e82-93a0-ef5030a35ed4",
+      "name": "Biz Chill-BSCHIL",
+      "callLetters": "BSCHIL",
+      "role": "station",
+      "internalId": 24
+    },
+    {
+      "uuid": "03b5baa2-fd87-43e3-9dce-01575219df81",
+      "name": "Coffee House-PMJAVA",
+      "callLetters": "PMJAVA",
+      "role": "station",
+      "internalId": 25
+    },
+    {
+      "uuid": "e80b1254-eaef-43e1-9e98-3abaacd1e2e3",
+      "name": "Biz Coffeehouse-BSJAVA",
+      "callLetters": "BSJAVA",
+      "role": "station",
+      "internalId": 26
+    },
+    {
+      "uuid": "c3fe7862-9e8b-40a3-8e22-3ec6b78631e0",
+      "name": "Venus-PMWPOP",
+      "callLetters": "PMWPOP",
+      "role": "station",
+      "internalId": 27
+    },
+    {
+      "uuid": "9c737eac-4a62-4a81-bfce-76841a491112",
+      "name": "Chill-PMCHIL",
+      "callLetters": "PMCHIL",
+      "role": "station",
+      "internalId": 28
+    },
+    {
+      "uuid": "d6697c5f-d463-4d2c-ac6f-72027ae77756",
+      "name": "Biz Viva-BSHPOP",
+      "callLetters": "BSHPOP",
+      "role": "station",
+      "internalId": 29
+    },
+    {
+      "uuid": "b9ea1c28-9439-4521-8e01-838a7b8aeb62",
+      "name": "80s On 8-PMEGHT",
+      "callLetters": "PMEGHT",
+      "role": "station",
+      "internalId": 30
+    },
+    {
+      "uuid": "e18bd46d-dae9-4a10-9fd2-36cbbb136db1",
+      "name": "Biz 80s-BSEGHT",
+      "callLetters": "BSEGHT",
+      "role": "station",
+      "internalId": 31
+    },
+    {
+      "uuid": "d3786e5e-78af-46d5-950d-cab4e85340ce",
+      "name": "Hits-1-PMHITS",
+      "callLetters": "PMHITS",
+      "role": "station",
+      "internalId": 32
+    },
+    {
+      "uuid": "dddab975-04e2-4d6c-bb8d-358171c0b85f",
+      "name": "Biz Hits1-BSTWEN",
+      "callLetters": "BSTWEN",
+      "role": "station",
+      "internalId": 33
+    },
+    {
+      "uuid": "77e8c45f-53b0-4ad2-b132-7e43a53331a8",
+      "name": "Preview-PMPREV",
+      "callLetters": "PMPREV",
+      "role": "station",
+      "internalId": 34
+    },
+    {
+      "uuid": "15149b05-4fde-4c31-a7ed-3a6b23245913",
+      "name": "BPM-PMHOMU",
+      "callLetters": "PMHOMU",
+      "role": "station",
+      "internalId": 35
+    },
+    {
+      "uuid": "540fbc0c-2096-40c5-beb0-08eb5e254199",
+      "name": "Biz BPM-BSHOMU",
+      "callLetters": "BSHOMU",
+      "role": "station",
+      "internalId": 36
+    },
+    {
+      "uuid": "83c9ef42-782b-426f-882f-7e7ed83c4457",
+      "name": "Spectrum-PMMDAC",
+      "callLetters": "PMMDAC",
+      "role": "station",
+      "internalId": 37
+    },
+    {
+      "uuid": "ab01e5bc-0c00-4eb1-b43d-af9047f72c2a",
+      "name": "Biz Spectrum-BSMDAC",
+      "callLetters": "BSMDAC",
+      "role": "station",
+      "internalId": 38
+    },
+    {
+      "uuid": "52c90a81-08de-43e1-8f69-059e125866a7",
+      "name": "Pulse-PMPPRK",
+      "callLetters": "PMPPRK",
+      "role": "station",
+      "internalId": 39
+    },
+    {
+      "uuid": "854e93e6-5d47-4a6c-872e-4f707024bea8",
+      "name": "Biz Pulse-BSPPRK",
+      "callLetters": "BSPPRK",
+      "role": "station",
+      "internalId": 40
+    },
+    {
+      "uuid": "b280519f-103b-438b-8bf6-8737dd39e61c",
+      "name": "70s On 7-PMSEVT",
+      "callLetters": "PMSEVT",
+      "role": "station",
+      "internalId": 41
+    },
+    {
+      "uuid": "21c3edc5-c5aa-4f42-8641-5cedb1c84f62",
+      "name": "Biz 70s-BSSEVT",
+      "callLetters": "BSSEVT",
+      "role": "station",
+      "internalId": 42
+    },
+    {
+      "uuid": "7c1bb2dc-d73a-4226-bb04-1528f0d56785",
+      "name": "Heart & Soul-PMURAC",
+      "callLetters": "PMURAC",
+      "role": "station",
+      "internalId": 43
+    },
+    {
+      "uuid": "3428995a-c9a3-4c07-9da8-070a9ae356fa",
+      "name": "Biz Heart & Soul-BSURAC",
+      "callLetters": "BSURAC",
+      "role": "station",
+      "internalId": 44
+    },
+    {
+      "uuid": "58c8b449-b892-494f-a94c-36873fa34622",
+      "name": "Soul Town-PMSOUL",
+      "callLetters": "PMSOUL",
+      "role": "station",
+      "internalId": 45
+    },
+    {
+      "uuid": "2ff8d574-261f-4731-8c41-eaa2bf827c5e",
+      "name": "Biz Soul Town-BSSOUL",
+      "callLetters": "BSSOUL",
+      "role": "station",
+      "internalId": 46
+    },
+    {
+      "uuid": "37182b08-55cd-4864-8002-ee38c0cd7d01",
+      "name": "Biz Strobe-BSDISC",
+      "callLetters": "BSDISC",
+      "role": "station",
+      "internalId": 47
+    },
+    {
+      "uuid": "7f9efaad-c661-4eed-9085-387d3e2db317",
+      "name": "Biz Loft-BSACST",
+      "callLetters": "BSACST",
+      "role": "station",
+      "internalId": 48
+    },
+    {
+      "uuid": "a2303937-abd8-4bc7-9854-83503a432f6a",
+      "name": "Biz Love-BSLOVE",
+      "callLetters": "BSLOVE",
+      "role": "station",
+      "internalId": 49
+    },
+    {
+      "uuid": "52493dcb-6d87-4748-90de-7fc8727eb1fd",
+      "name": "Biz Spa-BSNWAG",
+      "callLetters": "BSNWAG",
+      "role": "station",
+      "internalId": 50
+    },
+    {
+      "uuid": "9de20054-5bb7-4af4-96d5-a32e8b418f50",
+      "name": "Biz Highway-BSCTRY",
+      "callLetters": "BSCTRY",
+      "role": "station",
+      "internalId": 51
+    },
+    {
+      "uuid": "6671ce3b-9204-4b86-9b62-9f2c423c7459",
+      "name": "Biz Pop2k-BSPOP1",
+      "callLetters": "BSPOP1",
+      "role": "station",
+      "internalId": 52
+    },
+    {
+      "uuid": "a2709db4-dee1-490b-9ff8-c5fa7823f28f",
+      "name": "Biz Rewind-BSCLRK",
+      "callLetters": "BSCLRK",
+      "role": "station",
+      "internalId": 53
+    },
+    {
+      "uuid": "784ca3ac-625c-4ac2-aa7f-191ab76620b4",
+      "name": "XTRA-PMXTRA",
+      "callLetters": "PMXTRA",
+      "role": "station",
+      "internalId": 54
+    },
+    {
+      "uuid": "f75770d3-3bee-497a-a150-4d45d54b7242",
+      "name": "Biz Watercolors-BSLTJA",
+      "callLetters": "BSLTJA",
+      "role": "station",
+      "internalId": 55
+    },
+    {
+      "uuid": "c579e4f6-1486-48b8-b058-5c5844de8fe0",
+      "name": "Biz Classic Vinyl-BSCRHT",
+      "callLetters": "BSCRHT",
+      "role": "station",
+      "internalId": 56
+    },
+    {
+      "uuid": "c9c2cdc2-b127-4d99-bbe7-2cfb5ef771c5",
+      "name": "Biz Pops-BSCLHT",
+      "callLetters": "BSCLHT",
+      "role": "station",
+      "internalId": 57
+    },
+    {
+      "uuid": "f7622415-c63e-4088-81a9-6c1b2fafab81",
+      "name": "Biz Prime Country-BSCOUN",
+      "callLetters": "BSCOUN",
+      "role": "station",
+      "internalId": 58
+    },
+    {
+      "uuid": "8df0e5c7-35c4-4b1c-a3ea-f77a50e0ac52",
+      "name": "Spa-PMNWAG",
+      "callLetters": "PMNWAG",
+      "role": "station",
+      "internalId": 59
+    },
+    {
+      "uuid": "d8c6a92d-2489-4a16-b40a-5518607fe123",
+      "name": "Highway-PMCTRY",
+      "callLetters": "PMCTRY",
+      "role": "station",
+      "internalId": 60
+    },
+    {
+      "uuid": "9083e6e2-9a4d-4627-b0ac-2869b870cd85",
+      "name": "Pop2K-PMPOP1",
+      "callLetters": "PMPOP1",
+      "role": "station",
+      "internalId": 61
+    },
+    {
+      "uuid": "7c7f019d-1b6e-422d-8d2c-2da5a569fab6",
+      "name": "Loft-PMACST",
+      "callLetters": "PMACST",
+      "role": "station",
+      "internalId": 62
+    },
+    {
+      "uuid": "29047f4c-d60e-4c93-9bc7-a2ef84ff9866",
+      "name": "Classic Vinyl-PMCRHT",
+      "callLetters": "PMCRHT",
+      "role": "station",
+      "internalId": 63
+    },
+    {
+      "uuid": "0a24b449-bcdb-44c4-8af4-e80e69cab6aa",
+      "name": "Studio54-PMST54",
+      "callLetters": "PMST54",
+      "role": "station",
+      "internalId": 64
+    },
+    {
+      "uuid": "65c53f5e-a0b0-4728-be01-2128614a66fe",
+      "name": "Pops-PMCLHT",
+      "callLetters": "PMCLHT",
+      "role": "station",
+      "internalId": 65
+    },
+    {
+      "uuid": "1469084e-5c13-47e5-95c6-cfc2894b6352",
+      "name": "Love-PMLOVE",
+      "callLetters": "PMLOVE",
+      "role": "station",
+      "internalId": 66
+    },
+    {
+      "uuid": "57ba6b84-995c-4d40-afac-218094aa4763",
+      "name": "Watercolors-PMLTJA",
+      "callLetters": "PMLTJA",
+      "role": "station",
+      "internalId": 67
+    },
+    {
+      "uuid": "60d6657d-0ee5-42d6-ac14-88f015f348c7",
+      "name": "Classic Rewind-PMCLRK",
+      "callLetters": "PMCLRK",
+      "role": "station",
+      "internalId": 68
+    },
+    {
+      "uuid": "a605f0de-9063-46b0-91b0-1389b70df326",
+      "name": "Aguila-PMRMEX",
+      "callLetters": "PMRMEX",
+      "role": "station",
+      "internalId": 69
+    },
+    {
+      "uuid": "f8ebd6d2-34e2-49a4-a652-8b3255f29386",
+      "name": "La Kueva-PMLROC",
+      "callLetters": "PMLROC",
+      "role": "station",
+      "internalId": 70
+    },
+    {
+      "uuid": "5d774826-a5e6-4bb1-b97c-e34c04489613",
+      "name": "Caricia-PMCSAC",
+      "callLetters": "PMCSAC",
+      "role": "station",
+      "internalId": 71
+    },
+    {
+      "uuid": "32fd4650-44c8-4ac5-a6cd-42a70febc57d",
+      "name": "Country Christmas-PMHCOU",
+      "callLetters": "PMHCOU",
+      "role": "station",
+      "internalId": 72
+    },
+    {
+      "uuid": "4803e2b9-004f-4463-b45e-31de71671c1d",
+      "name": "Enlighten-PMSOUT",
+      "callLetters": "PMSOUT",
+      "role": "station",
+      "internalId": 73
+    },
+    {
+      "uuid": "694ba562-7fd6-4803-bd58-81117fbd10ac",
+      "name": "Flo Nacion-PMLURB",
+      "callLetters": "PMLURB",
+      "role": "station",
+      "internalId": 74
+    },
+    {
+      "uuid": "52fc1e1a-9d18-4fa6-b554-1f36991b387c",
+      "name": "Holiday Pops-PMHCLH",
+      "callLetters": "PMHCLH",
+      "role": "station",
+      "internalId": 75
+    },
+    {
+      "uuid": "94708944-4d6c-474f-b110-f73bf4a19e27",
+      "name": "Latidos-PMLLOV",
+      "callLetters": "PMLLOV",
+      "role": "station",
+      "internalId": 76
+    },
+    {
+      "uuid": "b983f2ee-ec83-401a-bcd9-6ac9a02771a2",
+      "name": "Prime Country-PMCOUN",
+      "callLetters": "PMCOUN",
+      "role": "station",
+      "internalId": 77
+    },
+    {
+      "uuid": "a3069037-2da4-415d-bd39-11d6ad62b8bb",
+      "name": "Yoga-PMYOGA",
+      "callLetters": "PMYOGA",
+      "role": "station",
+      "internalId": 78
+    },
+    {
+      "uuid": "5fdd8e7a-1ad3-4da8-81c3-26462ceb1d5b",
+      "name": "Luna-PMLTJZ",
+      "callLetters": "PMLTJZ",
+      "role": "station",
+      "internalId": 79
+    },
+    {
+      "uuid": "5624582e-473d-4659-8364-110b8d5a1d7d",
+      "name": "Navidad-PMNAVI",
+      "callLetters": "PMNAVI",
+      "role": "station",
+      "internalId": 80
+    },
+    {
+      "uuid": "af7b0e3c-06e0-4c1f-a080-c3411bdf0806",
+      "name": "Pink Floyd-PMPINK",
+      "callLetters": "PMPINK",
+      "role": "station",
+      "internalId": 81
+    },
+    {
+      "uuid": "986163c9-c61f-4552-8cf1-e365aec44645",
+      "name": "Rockbar-PMRKBR",
+      "callLetters": "PMRKBR",
+      "role": "station",
+      "internalId": 82
+    },
+    {
+      "uuid": "c993dbcb-333c-4f82-9251-e468b76c4eb3",
+      "name": "Rumbon-PMCSAL",
+      "callLetters": "PMCSAL",
+      "role": "station",
+      "internalId": 83
+    },
+    {
+      "uuid": "42969c2f-d82f-4bd3-9bf1-91ec3e50481d",
+      "name": "Radio Hanukkah-PMHANU",
+      "callLetters": "PMHANU",
+      "role": "station",
+      "internalId": 84
+    },
+    {
+      "uuid": "f886cc98-9022-45de-824c-5d9b645f7748",
+      "name": "Hall Of Fame-PMRKHL",
+      "callLetters": "PMRKHL",
+      "role": "station",
+      "internalId": 85
+    },
+    {
+      "uuid": "a721a697-c8ac-4d2c-8b92-afa3d369a4e8",
+      "name": "Girls Room-PMGIRL",
+      "callLetters": "PMGIRL",
+      "role": "station",
+      "internalId": 86
+    },
+    {
+      "uuid": "e79ef1a2-985a-4401-b1bc-9aa0393c3aa6",
+      "name": "Holly-PMHOLY",
+      "callLetters": "PMHOLY",
+      "role": "station",
+      "internalId": 87
+    },
+    {
+      "uuid": "5178aa8d-3fcc-45e9-b38a-ad14e91beed4",
+      "name": "70s & 80s Party Pop-PM7080",
+      "callLetters": "PM7080",
+      "role": "station",
+      "internalId": 88
+    },
+    {
+      "uuid": "02b4777e-a44d-4c86-ad19-dea0df503502",
+      "name": "80s & 90s Party Pop-PM8090",
+      "callLetters": "PM8090",
+      "role": "station",
+      "internalId": 89
+    },
+    {
+      "uuid": "fad45562-7d1f-458c-bde8-59f7b6c414f8",
+      "name": "Elevations-PMEZ20",
+      "callLetters": "PMEZ20",
+      "role": "station",
+      "internalId": 90
+    },
+    {
+      "uuid": "9746bd2f-f441-4ba5-9286-c438ee8a0587",
+      "name": "Holiday Soul-PMHSOU",
+      "callLetters": "PMHSOU",
+      "role": "station",
+      "internalId": 91
+    },
+    {
+      "uuid": "2994a041-9f58-44d8-bd4d-a490a75279ee",
+      "name": "Indie 1.0-PMIRCK",
+      "callLetters": "PMIRCK",
+      "role": "station",
+      "internalId": 92
+    },
+    {
+      "uuid": "cc1b44ba-1ea7-46a9-9adc-5814f10b89ac",
+      "name": "Pop Party Mix-PMPOPM",
+      "callLetters": "PMPOPM",
+      "role": "station",
+      "internalId": 93
+    },
+    {
+      "uuid": "6a82b6bf-04c0-457c-9814-a0eeff430a0c",
+      "name": "Punk Party-PM??",
+      "callLetters": "",
+      "role": "station",
+      "internalId": 94
+    },
+    {
+      "uuid": "90482633-24a5-4e23-bbb8-8f71a143d9ef",
+      "name": "Jason Ellis-PMSK82",
+      "callLetters": "PMSK82",
+      "role": "station",
+      "internalId": 95
+    },
+    {
+      "uuid": "523f13bc-9c45-495c-ab35-6051ae2774e0",
+      "name": "Velvet-PMSPOP",
+      "callLetters": "PMSPOP",
+      "role": "station",
+      "internalId": 96
+    },
+    {
+      "uuid": "f68509a5-41dc-4437-91ab-76753159b099",
+      "name": "Neil Diamond-PMTMC1",
+      "callLetters": "PMTMC1",
+      "role": "station",
+      "internalId": 97
+    },
+    {
+      "uuid": "fcab1231-d6bf-4714-a5c2-f00ccf41a8b2",
+      "name": "Buried Treasure-PMTRSR",
+      "callLetters": "PMTRSR",
+      "role": "station",
+      "internalId": 98
+    },
+    {
+      "uuid": "9dbf8351-6590-45ed-af99-7d386eb1cfa3",
+      "name": "Silk-PMRBCH",
+      "callLetters": "PMRBCH",
+      "role": "station",
+      "internalId": 99
+    },
+    {
+      "uuid": "26bd0cd4-48f5-4576-b763-12f981381118",
+      "name": "Hip Hop Party-PMHHPT",
+      "callLetters": "PMHHPT",
+      "role": "station",
+      "internalId": 100
+    },
+    {
+      "uuid": "2b92ee7f-2349-4181-91d7-c53f659c782f",
+      "name": "50s & 60s Oldies-PMOLDP",
+      "callLetters": "PMOLDP",
+      "role": "station",
+      "internalId": 101
+    },
+    {
+      "uuid": "b6489d7e-61d4-4d18-8323-3e456e444976",
+      "name": "First Wave-PMCALT",
+      "callLetters": "PMCALT",
+      "role": "station",
+      "internalId": 102
+    },
+    {
+      "uuid": "c73aba97-096b-4b4d-8cb1-c49f27011c35",
+      "name": "Joint-PMREGA",
+      "callLetters": "PMREGA",
+      "role": "station",
+      "internalId": 103
+    },
+    {
+      "uuid": "3ea84ab0-6e94-4f8f-9e4b-82aec84dc780",
+      "name": "Caliente-PMCARI",
+      "callLetters": "PMCARI",
+      "role": "station",
+      "internalId": 104
+    },
+    {
+      "uuid": "82325522-8746-4414-a4c5-383eb3c644d7",
+      "name": "Electric Area-PMMOEL",
+      "callLetters": "PMMOEL",
+      "role": "station",
+      "internalId": 105
+    },
+    {
+      "uuid": "9179ed51-3f30-4eb3-89d7-9be725aab39a",
+      "name": "Elvis Radio-PMKING",
+      "callLetters": "PMKING",
+      "role": "station",
+      "internalId": 106
+    },
+    {
+      "uuid": "e397ae63-ed96-4e05-9fc0-9d981c1c312e",
+      "name": "Faction-PMSK8R",
+      "callLetters": "PMSK8R",
+      "role": "station",
+      "internalId": 107
+    },
+    {
+      "uuid": "d52c972a-0a7f-4f62-84e5-3202e3064e32",
+      "name": "Willie-PMCCOU",
+      "callLetters": "PMCCOU",
+      "role": "station",
+      "internalId": 108
+    },
+    {
+      "uuid": "c0902603-951d-4bcf-a548-f12c7642fbf4",
+      "name": "Shade45-PMHHOP",
+      "callLetters": "PMHHOP",
+      "role": "station",
+      "internalId": 110
+    },
+    {
+      "uuid": "34224d3d-07dd-4f86-b3d0-526103c306fd",
+      "name": "Dead-PMDEAD",
+      "callLetters": "PMDEAD",
+      "role": "station",
+      "internalId": 111
+    },
+    {
+      "uuid": "a7bb2174-bdfc-4070-8dd9-f4d720f80dc9",
+      "name": "Bluesville-PMBLUE",
+      "callLetters": "PMBLUE",
+      "role": "station",
+      "internalId": 112
+    },
+    {
+      "uuid": "307c70fb-a18a-4214-b64f-2eed4548f766",
+      "name": "Alt Nation-PMALHT",
+      "callLetters": "PMALHT",
+      "role": "station",
+      "internalId": 113
+    },
+    {
+      "uuid": "bc7ac226-c960-4842-88c5-bbf621520340",
+      "name": "Message-PMCACT",
+      "callLetters": "PMCACT",
+      "role": "station",
+      "internalId": 114
+    },
+    {
+      "uuid": "6373595b-e776-4470-96ec-c292e5e6c67d",
+      "name": "JamOn-PMPROG",
+      "callLetters": "PMPROG",
+      "role": "station",
+      "internalId": 115
+    },
+    {
+      "uuid": "fb141b62-abfd-43f5-86c4-b5d9b2b7d2f2",
+      "name": "KidzBop-PMTKID",
+      "callLetters": "PMTKID",
+      "role": "station",
+      "internalId": 116
+    },
+    {
+      "uuid": "9fdb96af-8451-4b47-b629-e08641768c32",
+      "name": "Sinatra-PMSTND",
+      "callLetters": "PMSTND",
+      "role": "station",
+      "internalId": 117
+    },
+    {
+      "uuid": "c7c3ea11-4a23-4e91-8e1e-17788fa54071",
+      "name": "Pearl Jam-PMPRLJ",
+      "callLetters": "PMPRLJ",
+      "role": "station",
+      "internalId": 118
+    },
+    {
+      "uuid": "d9db025c-0c43-4715-bb7e-c5b25f33e99f",
+      "name": "SiriusXMU-PMNWRK",
+      "callLetters": "PMNWRK",
+      "role": "station",
+      "internalId": 119
+    },
+    {
+      "uuid": "67375d29-73cd-4d4d-a36b-586621fa5776",
+      "name": "Liquid Metal-PMHDRK",
+      "callLetters": "PMHDRK",
+      "role": "station",
+      "internalId": 120
+    },
+    {
+      "uuid": "66b998e4-cd7d-454f-be2d-c71f317d6556",
+      "name": "Garage-PMGRGE",
+      "callLetters": "PMGRGE",
+      "role": "station",
+      "internalId": 121
+    },
+    {
+      "uuid": "db888810-f62e-4ecd-b9e6-11f9ec948244",
+      "name": "Praise-PMGOSP",
+      "callLetters": "PMGOSP",
+      "role": "station",
+      "internalId": 122
+    },
+    {
+      "uuid": "778ef486-bb41-4bd9-a11a-114c06467189",
+      "name": "Utopia-PM90DC",
+      "callLetters": "PM90DC",
+      "role": "station",
+      "internalId": 123
+    },
+    {
+      "uuid": "13983230-5364-4a1a-8a25-28521489ffc9",
+      "name": "Octane-PMACRK",
+      "callLetters": "PMACRK",
+      "role": "station",
+      "internalId": 124
+    },
+    {
+      "uuid": "637d3728-9e9c-447a-86d3-5e0102a89fbe",
+      "name": "Bluegrass Junction-PMGRAS",
+      "callLetters": "PMGRAS",
+      "role": "station",
+      "internalId": 125
+    },
+    {
+      "uuid": "72891ce4-8507-40a0-91e1-6e9c720a386a",
+      "name": "Tiestos Club Life-PMLCLB",
+      "callLetters": "PMLCLB",
+      "role": "station",
+      "internalId": 126
+    },
+    {
+      "uuid": "7d68f12c-1a93-48b1-b4a8-80d42ab83a57",
+      "name": "Kids Place Live-PMYKID",
+      "callLetters": "PMYKID",
+      "role": "station",
+      "internalId": 127
+    },
+    {
+      "uuid": "08cd294a-3769-46af-bc33-a650e52ea3d7",
+      "name": "Cinemagic-PMSDTK",
+      "callLetters": "PMSDTK",
+      "role": "station",
+      "internalId": 128
+    },
+    {
+      "uuid": "08cbe8bf-668e-4eda-b15f-16f5d632eb66",
+      "name": "Deep Tracks-PMUAOR",
+      "callLetters": "PMUAOR",
+      "role": "station",
+      "internalId": 129
+    },
+    {
+      "uuid": "878e2103-4df8-4140-8fc8-6fe7ebf5b7fc",
+      "name": "Symp Hall-PMTRCL",
+      "callLetters": "PMTRCL",
+      "role": "station",
+      "internalId": 130
+    },
+    {
+      "uuid": "a5948759-d504-4dd9-b849-87f2f3a6b4cc",
+      "name": "Hair Nation-PMHAIR",
+      "callLetters": "PMHAIR",
+      "role": "station",
+      "internalId": 131
+    },
+    {
+      "uuid": "05f7ba5e-99f7-402f-b316-15449bf940d1",
+      "name": "Groove-PMCLRB",
+      "callLetters": "PMCLRB",
+      "role": "station",
+      "internalId": 132
+    },
+    {
+      "uuid": "63a2e5c0-2bd6-4555-ad58-d4e2ba658c2b",
+      "name": "Village-PMFOLK",
+      "callLetters": "PMFOLK",
+      "role": "station",
+      "internalId": 133
+    },
+    {
+      "uuid": "23aff5fb-6934-47fd-9bc7-42a9ac164863",
+      "name": "Heat-PMRCHR",
+      "callLetters": "PMRCHR",
+      "role": "station",
+      "internalId": 134
+    },
+    {
+      "uuid": "566dc317-0774-4836-a4e1-32f03b508abd",
+      "name": "Ozzy-PMLAOR",
+      "callLetters": "PMLAOR",
+      "role": "station",
+      "internalId": 135
+    },
+    {
+      "uuid": "25d8533d-7ef3-4c16-b336-a14f3e8c6bec",
+      "name": "Backspin-PMCRAP",
+      "callLetters": "PMCRAP",
+      "role": "station",
+      "internalId": 137
+    },
+    {
+      "uuid": "fed51683-a6a0-44eb-8c06-d03bef12ef4f",
+      "name": "Frat Party-PMFRAT",
+      "callLetters": "PMFRAT",
+      "role": "station",
+      "internalId": 139
+    },
+    {
+      "uuid": "8ab2b435-7c59-428f-9a50-668928e4e87c",
+      "name": "New Wave Dance Party-PMNWDC",
+      "callLetters": "PMNWDC",
+      "role": "station",
+      "internalId": 140
+    },
+    {
+      "uuid": "e6583978-50e3-4d47-9d55-093e03abc459",
+      "name": "Escape-PMEASY",
+      "callLetters": "PMEASY",
+      "role": "station",
+      "internalId": 141
+    },
+    {
+      "uuid": "7573562a-d0b3-4d52-bae7-da618421e611",
+      "name": "Y2 Country-PM2COU",
+      "callLetters": "PM2COU",
+      "role": "station",
+      "internalId": 142
+    },
+    {
+      "uuid": "806cf8de-9c85-4369-b98e-db1cf02f9a48",
+      "name": "Pitbull-PMPTBL",
+      "callLetters": "PMPTBL",
+      "role": "station",
+      "internalId": 143
+    },
+    {
+      "uuid": "a32bbc32-08c9-4554-b73f-96239bb853f3",
+      "name": "Turbo-PMONRK",
+      "callLetters": "PMONRK",
+      "role": "station",
+      "internalId": 144
+    },
+    {
+      "uuid": "2b3dd4fe-241c-47c1-9d02-515c2953e773",
+      "name": "Training-PMTEST",
+      "callLetters": "PMTEST",
+      "role": "station",
+      "internalId": 145
+    },
+    {
+      "uuid": "e3ed0fca-2874-4bfa-8354-904ac875627e",
+      "name": "Covers-PMCVRS",
+      "callLetters": "PMCVRS",
+      "role": "station",
+      "internalId": 146
+    },
+    {
+      "uuid": "c9d2d096-08fa-4de1-bddd-c3ffe0161e16",
+      "name": "AoD Shows",
+      "role": "virtualStation",
+      "internalId": 148
+    },
+    {
+      "uuid": "59d40960-bacc-4059-812a-de5bea2707cb",
+      "name": "On Broadway-PMSHOW",
+      "callLetters": "PMSHOW",
+      "role": "station",
+      "internalId": 149
+    },
+    {
+      "uuid": "c1826a9f-eb37-44f6-8aa1-7cbed143fcb8",
+      "name": "Maintenance",
+      "role": "backgroundTask",
+      "internalId": 150
+    },
+    {
+      "uuid": "afd161b8-388c-4f59-b4b9-afc230b81233",
+      "name": "Outlaw Country-PMPCOU",
+      "callLetters": "PMPCOU",
+      "role": "station",
+      "internalId": 151
+    },
+    {
+      "uuid": "43acbb2a-8a8e-47fa-ad5a-4d978b1c3f09",
+      "name": "Holiday Traditions-PMLTE9",
+      "callLetters": "PMLTE9",
+      "role": "station",
+      "internalId": 152
+    },
+    {
+      "uuid": "5ec0008b-0754-4b5d-8694-b516f8ce3784",
+      "name": "Celebrate-PMVPOP",
+      "callLetters": "PMVPOP",
+      "role": "station",
+      "internalId": 155
+    },
+    {
+      "uuid": "18ebb9a7-e335-48c1-9a1a-697355481e55",
+      "name": "Road Trip-PMRTRP",
+      "callLetters": "PMRTRP",
+      "role": "station",
+      "internalId": 156
+    },
+    {
+      "uuid": "aefc7027-8e7e-4439-9816-abbbc604211c",
+      "name": "No Shoes Radio-PMCCNS",
+      "callLetters": "PMCCNS",
+      "role": "station",
+      "internalId": 157
+    },
+    {
+      "uuid": "4842530a-dacc-46d2-b79d-ceb553da7e94",
+      "name": "Radio Margaritaville-PMBUFT",
+      "callLetters": "PMBUFT",
+      "role": "station",
+      "internalId": 158
+    },
+    {
+      "uuid": "0e65e414-1abf-464a-9db8-d900c23e958c",
+      "name": "ONEderland Radio-PM1HTW",
+      "callLetters": "PM1HTW",
+      "role": "station",
+      "internalId": 159
+    },
+    {
+      "uuid": "c029e4be-413e-4a5c-8eb9-5d18fd091a15",
+      "name": "Garth Brooks-PMCTGB",
+      "callLetters": "PMCTGB",
+      "role": "station",
+      "internalId": 160
+    },
+    {
+      "uuid": "c1b8460c-8ba0-4cba-bcd2-c5b824ba3795",
+      "name": "Petty-PMRCKR",
+      "callLetters": "PMRCKR",
+      "role": "station",
+      "internalId": 161
+    },
+    {
+      "uuid": "e30bb1bf-d579-4e6e-a419-083329631032",
+      "name": "Biz Seasonal-BSSPEC",
+      "callLetters": "BSSPEC",
+      "role": "station",
+      "internalId": 162
+    },
+    {
+      "uuid": "8912dd92-625d-40ca-b943-3f4a1c846af7",
+      "name": "Utility Player-PMUTL1",
+      "callLetters": "PMUTL1",
+      "role": "station",
+      "internalId": 163
+    },
+    {
+      "uuid": "0ad61a82-3b49-4481-b25d-04246a0f6aa2",
+      "name": "Yacht Rock-PMYCHT",
+      "callLetters": "PMYCHT",
+      "role": "station",
+      "internalId": 164
+    },
+    {
+      "uuid": "3e2cdea6-b179-4743-a6e1-f21cd38040ba",
+      "name": "Billy Joel-PMJOEL",
+      "callLetters": "PMJOEL",
+      "role": "station",
+      "internalId": 165
+    },
+    {
+      "uuid": "a53ef148-c943-457c-aa66-8b5e72175c7b",
+      "name": "Canadian Indigenous-PMABOR",
+      "callLetters": "PMABOR",
+      "role": "station",
+      "internalId": 166
+    },
+    {
+      "uuid": "d7a3f60d-db95-4718-ab7a-bb4cfe70fe45",
+      "name": "E Street Radio-PMBOSS",
+      "callLetters": "PMBOSS",
+      "role": "station",
+      "internalId": 167
+    },
+    {
+      "uuid": "aee76d53-8516-4a2e-9358-cc7f34c5192c",
+      "name": "Rock Candy-PMCNDY",
+      "callLetters": "PMCNDY",
+      "role": "station",
+      "internalId": 168
+    },
+    {
+      "uuid": "f93fbab8-1e5c-4a77-9e4a-8f3f0f88c787",
+      "name": "Spotlight-PMJOVI",
+      "callLetters": "PMJOVI",
+      "role": "station",
+      "internalId": 169
+    },
+    {
+      "uuid": "788a2409-3b25-459a-bbfa-78844595721a",
+      "name": "Met Opera-PMOPER",
+      "callLetters": "PMOPER",
+      "role": "station",
+      "internalId": 170
+    },
+    {
+      "uuid": "e0f36b5b-f4da-4000-a30c-527534ec5354",
+      "name": "Web Preview-PMPREV",
+      "callLetters": "PMPREV",
+      "role": "station",
+      "internalId": 171
+    },
+    {
+      "uuid": "25c72572-aecf-41b6-ac03-489471dddc61",
+      "name": "Hip Hop Nation-PMURBA",
+      "callLetters": "PMURBA",
+      "role": "station",
+      "internalId": 172
+    },
+    {
+      "uuid": "c9f82eaa-06f0-4daf-9148-32f867843de8",
+      "name": "Que Funny-PMLCMD",
+      "callLetters": "PMLCMD",
+      "role": "station",
+      "internalId": 173
+    },
+    {
+      "uuid": "4b85eebc-2b13-479c-abac-4a309e30577e",
+      "name": "Laugh USA-PMLAF2",
+      "callLetters": "PMLAF2",
+      "role": "station",
+      "internalId": 174
+    },
+    {
+      "uuid": "4fda6766-db3c-47bc-aa69-d3a95723e4f8",
+      "name": "Comedy Central-PMCMDC",
+      "callLetters": "PMCMDC",
+      "role": "station",
+      "internalId": 175
+    },
+    {
+      "uuid": "9b519af4-81a5-47c9-a451-27e837b4d95b",
+      "name": "Comedy Greats-PMCMDG",
+      "callLetters": "PMCMDG",
+      "role": "station",
+      "internalId": 176
+    },
+    {
+      "uuid": "08f26418-9d9a-42f8-8b29-30babf056ee4",
+      "name": "Kevin Hart's LOL-PMCMDY",
+      "callLetters": "PMCMDY",
+      "role": "station",
+      "internalId": 177
+    },
+    {
+      "uuid": "c7f8f76b-1379-46b7-85c2-bb7e712c902c",
+      "name": "Raw Dog-PMLAFF",
+      "callLetters": "PMLAFF",
+      "role": "station",
+      "internalId": 178
+    },
+    {
+      "uuid": "de00e56d-29a5-4f82-9095-e11742310530",
+      "name": "Carlins Corner-PMCRLN",
+      "callLetters": "PMCRLN",
+      "role": "station",
+      "internalId": 179
+    },
+    {
+      "uuid": "ee0f5239-8e46-4dd2-ab9b-f3a3f2285c4e",
+      "name": "Comedy Roundup-PMCMD1",
+      "callLetters": "PMCMD1",
+      "role": "station",
+      "internalId": 180
+    },
+    {
+      "uuid": "22eed807-9a4e-4d3f-b19d-490f1421d8ed",
+      "name": "Canada Laughs-PMCLAF",
+      "callLetters": "PMCLAF",
+      "role": "station",
+      "internalId": 181
+    },
+    {
+      "uuid": "78c9bdaa-3862-4331-945a-681a8a5200dd",
+      "name": "RadioClassics-PMRADI",
+      "callLetters": "PMRADI",
+      "role": "station",
+      "internalId": 182
+    },
+    {
+      "uuid": "d98a0482-c316-4da8-b8f7-e2b7cfc221db",
+      "name": "New Year's Nation-PMNWYR",
+      "callLetters": "PMNWYR",
+      "role": "station",
+      "internalId": 183
+    },
+    {
+      "uuid": "643a3c28-020a-492a-a5ee-439ce60a043c",
+      "name": "Iceberg-PMBERG",
+      "callLetters": "PMBERG",
+      "role": "station",
+      "internalId": 184
+    },
+    {
+      "uuid": "5bf3a006-53c1-4d26-af56-cb2170725c6b",
+      "name": "Attitude Franco-PMLATI",
+      "callLetters": "PMLATI",
+      "role": "station",
+      "internalId": 185
+    },
+    {
+      "uuid": "c5330408-3d6f-4e6f-b9cc-d50d2e8998ab",
+      "name": "Influence Franco-PMFRE1",
+      "callLetters": "PMFRE1",
+      "role": "station",
+      "internalId": 186
+    },
+    {
+      "uuid": "f8752569-48e9-47d7-8cec-64dbfa8b06a5",
+      "name": "Verge-PMMUSE",
+      "callLetters": "PMMUSE",
+      "role": "station",
+      "internalId": 187
+    },
+    {
+      "uuid": "ddbe5f54-54f0-4605-b82a-6ad46c6e749b",
+      "name": "Biz Alt Nation-BSALHT",
+      "callLetters": "BSALHT",
+      "role": "station",
+      "internalId": 188
+    },
+    {
+      "uuid": "64dc10e9-0715-49db-9d2f-2e8dd426a8f6",
+      "name": "Beatles-PMBTLS",
+      "callLetters": "PMBTLS",
+      "role": "station",
+      "internalId": 189
+    },
+    {
+      "uuid": "737274e6-8c9c-40e1-b915-ca53ea75ff14",
+      "name": "LA Sender",
+      "role": "virtualStation",
+      "internalId": 190
+    },
+    {
+      "uuid": "d691fb9c-bbfd-4af0-9ff5-a3b2e57cae6f",
+      "name": "Nashville Sender",
+      "role": "virtualStation",
+      "internalId": 191
+    },
+    {
+      "uuid": "7e14dbd6-262b-4b11-84b4-3ef8f0af2bb8",
+      "name": "Cleveland Sender",
+      "role": "virtualStation",
+      "internalId": 192
+    },
+    {
+      "uuid": "618a9e6a-5d97-4d49-8f24-007652a6efc8",
+      "name": "Austin Sender",
+      "role": "virtualStation",
+      "internalId": 193
+    },
+    {
+      "uuid": "4ded8ca3-ebf3-47d7-9af6-11a267c6fb1a",
+      "name": "Memphis Sender",
+      "role": "virtualStation",
+      "internalId": 194
+    },
+    {
+      "uuid": "d0152515-bc18-4b76-92c2-93d2ee0b5ffe",
+      "name": "Orlando Sender",
+      "role": "virtualStation",
+      "internalId": 195
+    },
+    {
+      "uuid": "35d11c96-0af7-487f-b805-fdd933591d44",
+      "name": "Jim Ladd Sender",
+      "role": "virtualStation",
+      "internalId": 196
+    },
+    {
+      "uuid": "2617dc6a-ac41-49ff-a37b-5235afd45933",
+      "name": "Pat St. John Sender",
+      "role": "virtualStation",
+      "internalId": 197
+    },
+    {
+      "uuid": "4af8d4f6-25be-43c4-aacf-c1abb5476e32",
+      "name": "Billboard-PMTIME",
+      "callLetters": "PMTIME",
+      "role": "station",
+      "internalId": 198
+    },
+    {
+      "uuid": "b9484fc6-2cf6-4812-82d2-8a8cd65707f8",
+      "name": "Alt R&B-PMALRB",
+      "callLetters": "PMALRB",
+      "role": "station",
+      "internalId": 199
+    },
+    {
+      "uuid": "e6564b66-06aa-4b74-bb3c-8f4f1c73a534",
+      "name": "Pop Rocks-PMPRCK",
+      "callLetters": "PMPRCK",
+      "role": "station",
+      "internalId": 200
+    },
+    {
+      "uuid": "504d1fbb-2853-481b-a2d6-8c18a689e3ab",
+      "name": "KPOP-PMKPOP",
+      "callLetters": "PMKPOP",
+      "role": "station",
+      "internalId": 201
+    },
+    {
+      "uuid": "b4a5b79c-ff3b-4c26-b53f-9c79252fec7f",
+      "name": "70s & 80s Holidays-PMH78S",
+      "callLetters": "PMH78S",
+      "role": "station",
+      "internalId": 202
+    },
+    {
+      "uuid": "1671f824-4920-4004-bda0-6ca3991424f3",
+      "name": "Cousin Brucie-PMSIXT",
+      "callLetters": "PMSIXT",
+      "role": "station",
+      "internalId": 204
+    },
+    {
+      "uuid": "22e541b3-78aa-43f2-afe7-3b3e18bfa195",
+      "name": "Eddie Trunk-PMHAIR",
+      "callLetters": "PMHAIR",
+      "role": "station",
+      "internalId": 205
+    },
+    {
+      "uuid": "dc0406e1-c6df-437c-b764-6e311ab37b69",
+      "name": "Emo Project-PMEMOP",
+      "callLetters": "PMEMOP",
+      "role": "station",
+      "internalId": 206
+    },
+    {
+      "uuid": "46088b09-d1cf-40b1-9350-087ad3c5c364",
+      "name": "Prom Radio-PMPROM",
+      "callLetters": "PMPROM",
+      "role": "station",
+      "internalId": 207
+    },
+    {
+      "uuid": "fa693889-1d28-420e-af51-fedaa92deafb",
+      "name": "Carolina Beach-PMSHAG",
+      "callLetters": "PMSHAG",
+      "role": "station",
+      "internalId": 208
+    },
+    {
+      "uuid": "6582e2b3-ecaa-4341-b247-963544cc80c3",
+      "name": "Production QC",
+      "role": "virtualStation",
+      "internalId": 209
+    },
+    {
+      "uuid": "3aec0e2f-b256-4db0-abd4-0ac25b419d62",
+      "name": "Insomniac Radio-PMDNIN",
+      "callLetters": "PMDNIN",
+      "role": "station",
+      "internalId": 211
+    },
+    {
+      "uuid": "f92461fb-2c5d-435a-996d-6d025cd25fab",
+      "name": "Soft Focus–PMSFFS",
+      "callLetters": "PMSFFS",
+      "role": "station",
+      "internalId": 212
+    },
+    {
+      "uuid": "87b0b824-b4f9-4f27-aa89-d1a47858c3d1",
+      "name": "Biz Message-BSCACT",
+      "callLetters": "BSCACT",
+      "role": "station",
+      "internalId": 213
+    },
+    {
+      "uuid": "893ee44a-2508-4c91-9a77-525d293d321a",
+      "name": "Stars-PMSTAR",
+      "callLetters": "PMSTAR",
+      "role": "station",
+      "internalId": 214
+    },
+    {
+      "uuid": "fa7cfa38-08d9-420e-97c2-bb279d0dfc8a",
+      "name": "MLB Barker-BKMLB1",
+      "callLetters": "BKMLB1",
+      "role": "station",
+      "internalId": 215
+    },
+    {
+      "uuid": "aa74b9c8-bd65-4368-b178-c1713ee40a23",
+      "name": "NASCAR Radio-PMNSCR",
+      "callLetters": "PMNSCR",
+      "role": "station",
+      "internalId": 216
+    },
+    {
+      "uuid": "70abd7d7-f187-4fc9-84d9-3c9c34dc0c7f",
+      "name": "Mannheim Steamroller–PMSTEM",
+      "callLetters": "PMSTEM",
+      "role": "station",
+      "internalId": 217
+    },
+    {
+      "uuid": "4a30da38-3eec-49ec-a59f-7ec07ea4b128",
+      "name": "Road Dog Trucking-PMTRKR",
+      "callLetters": "PMTRKR",
+      "role": "station",
+      "internalId": 218
+    },
+    {
+      "uuid": "5d3dd379-82ff-4d53-9012-61995a47719d",
+      "name": "Available-3",
+      "callLetters": "",
+      "role": 0,
+      "internalId": 219
+    },
+    {
+      "uuid": "c41afd99-ba2f-4daa-9937-df6ec1cf06b8",
+      "name": "Bakersfield Beat-PMCBBT",
+      "callLetters": "PMCBBT",
+      "role": "station",
+      "internalId": 220
+    },
+    {
+      "uuid": "4f74b70f-1f0e-4854-9b89-131b95244db7",
+      "name": "Marky Ramone-PMPUNK",
+      "callLetters": "PMPUNK",
+      "role": "station",
+      "internalId": 221
+    },
+    {
+      "uuid": "3da30d43-ef4b-48ca-a073-d66b95fffef3",
+      "name": "U2 Experience-PMBEAL",
+      "callLetters": "PMBEAL",
+      "role": "station",
+      "internalId": 222
+    },
+    {
+      "uuid": "d56c0fad-86c9-474e-ba42-880735b1666e",
+      "name": "Dave Matthews Band-PMROSK",
+      "callLetters": "PMROSK",
+      "role": "station",
+      "internalId": 223
+    },
+    {
+      "uuid": "ff929a4c-8231-4c05-802e-c3019ae7cabb",
+      "name": "Christmas Spirit-PMHSPR",
+      "callLetters": "PMHSPR",
+      "role": "station",
+      "internalId": 224
+    },
+    {
+      "uuid": "36c8e776-c9ec-4e12-aab0-e7b70b88d0d1",
+      "name": "Jazz Holidays-PMHJZZ",
+      "callLetters": "PMHJZZ",
+      "role": "station",
+      "internalId": 225
+    },
+    {
+      "uuid": "c1132552-4833-4b01-b574-0805bdfee36f",
+      "name": "Acoustic Christmas-PMHACS",
+      "callLetters": "PMHACS",
+      "role": "station",
+      "internalId": 226
+    },
+    {
+      "uuid": "d7c6d122-ccaa-4fcb-aa8f-f2e59168ea86",
+      "name": "Fleetwood Mac-PMROSK",
+      "callLetters": "PMROSK",
+      "role": "station",
+      "internalId": 227
+    },
+    {
+      "uuid": "e1e8f9b1-083c-44ca-8259-273066517741",
+      "name": "Eagles-PMEGLS",
+      "callLetters": "PMEGLS",
+      "role": "station",
+      "internalId": 228
+    },
+    {
+      "uuid": "80e5d55e-0172-45de-92b5-df1ce66622ad",
+      "name": "Sway-PMSHHP",
+      "callLetters": "PMSHHP",
+      "role": "station",
+      "internalId": 229
+    },
+    {
+      "uuid": "aebfb52c-7038-4ad9-acea-3d620654dbcf",
+      "name": "*Howard 100-PMHOW1",
+      "callLetters": "PMHOW1",
+      "role": "virtualStation",
+      "internalId": 230
+    },
+    {
+      "uuid": "2ef593ae-7194-47a8-866b-ea6e61436704",
+      "name": "*Howard 101-PMHOW2",
+      "callLetters": "PMHOW2",
+      "role": "virtualStation",
+      "internalId": 231
+    },
+    {
+      "uuid": "6fe02742-14bd-4ad4-9962-f069366aa1f6",
+      "name": "Franco Country-CXCAN8",
+      "callLetters": "CXCAN8",
+      "role": "virtualStation",
+      "internalId": 232
+    },
+    {
+      "uuid": "e5c1cc3a-ef05-426b-9420-bed361bcbb66",
+      "name": "CBC RADIO1-CXCANB",
+      "callLetters": "CXCANB",
+      "role": "virtualStation",
+      "internalId": 233
+    },
+    {
+      "uuid": "d570dbd0-32b9-46fc-a906-da8356e9fc68",
+      "name": "LAWO Test",
+      "role": "backgroundTask",
+      "internalId": 234
+    },
+    {
+      "uuid": "8540218d-6629-42dc-b0de-a7b00edc0986",
+      "name": "North Americana-PMROOT",
+      "callLetters": "PMROOT",
+      "role": "station",
+      "internalId": 235
+    },
+    {
+      "uuid": "9a90c4c4-e1a9-4e10-8bbe-b0f99ec2fdd8",
+      "name": "Southern Rock-PMSRCK",
+      "callLetters": "PMSRCK",
+      "role": "station",
+      "internalId": 236
+    },
+    {
+      "uuid": "a2f42685-6853-4c88-bb3b-605a69325cd9",
+      "name": "Diplo Radio-PMDNEL",
+      "callLetters": "PMDNEL",
+      "role": "station",
+      "internalId": 237
+    },
+    {
+      "uuid": "a94bf092-f4b8-4f8f-b2d4-3ffb7f626e0a",
+      "name": "Rock The Bells-PMORAP",
+      "callLetters": "PMORAP",
+      "role": "station",
+      "internalId": 238
+    },
+    {
+      "uuid": "5f72ad42-738f-4ba5-9e2c-cc41b8e2d394",
+      "name": "Beach Boys-PMBOYS",
+      "callLetters": "PMBOYS",
+      "role": "station",
+      "internalId": 239
+    },
+    {
+      "uuid": "cf8f1dcc-6170-42a3-91cc-3a53223054cb",
+      "name": "Faction Talk-PMJOCK",
+      "callLetters": "PMJOCK",
+      "role": "station",
+      "internalId": 240
+    },
+    {
+      "uuid": "b0572dc0-6d2f-4964-8567-4821d3bb00a7",
+      "name": "Wedding Party-PMNUPS",
+      "callLetters": "PMNUPS",
+      "role": "station",
+      "internalId": 241
+    },
+    {
+      "uuid": "fe103fd4-7e11-4776-a199-3288ceeb3008",
+      "name": "Rockin Xmas-PMHRCK",
+      "callLetters": "PMHRCK",
+      "role": "station",
+      "internalId": 242
+    },
+    {
+      "uuid": "3802b86c-29b8-4b27-97be-2f4eedb4f3f9",
+      "name": "Holiday Chill Out-PMHCHL ",
+      "callLetters": "PMHCHL",
+      "role": "station",
+      "internalId": 243
+    },
+    {
+      "uuid": "be771183-934a-4198-85c1-5bf4a7da2c9d",
+      "name": "Hallmark Channel Radio-PMHHCR",
+      "callLetters": "PMHHCR",
+      "role": "station",
+      "internalId": 244
+    },
+    {
+      "uuid": "6ab407db-2d01-49bf-88b6-5d49f114f217",
+      "name": "DR_ESPNU Radio-XDGUID",
+      "callLetters": "XDGUID",
+      "role": "station",
+      "internalId": 245
+    },
+    {
+      "uuid": "b97c71a1-9aa6-4e31-af46-82dba1d2f974",
+      "name": "Fox Headlines 24/7-PMNWSC",
+      "callLetters": "PMNWSC",
+      "role": "station",
+      "internalId": 247
+    },
+    {
+      "uuid": "0bca2768-1f50-445d-b92d-56f5468cf2f2",
+      "name": "Chill Hop-PMLFCH",
+      "callLetters": "PMLFCH",
+      "role": "station",
+      "internalId": 248
+    },
+    {
+      "uuid": "beb647ac-6693-456c-b63a-d4807d8a7ef3",
+      "name": "DR_MLB Radio-XDMLB1",
+      "callLetters": "XDMLB1",
+      "role": "station",
+      "internalId": 249
+    },
+    {
+      "uuid": "eacd88a7-c3bc-4d3f-b2cb-70bfaa1c804b",
+      "name": "Rod Stewart-PMRSTW",
+      "callLetters": "PMRSTW",
+      "role": "station",
+      "internalId": 250
+    },
+    {
+      "uuid": "468dc788-adab-4e5b-aa4e-65dbc05758ab",
+      "name": "Divas-PMDIVA",
+      "callLetters": "PMDIVA",
+      "role": "station",
+      "internalId": 251
+    },
+    {
+      "uuid": "d62cd44f-b179-4557-a7a6-e13846473931",
+      "name": "Scoreboard-PMINFO",
+      "callLetters": "PMINFO",
+      "role": "station",
+      "internalId": 252
+    },
+    {
+      "uuid": "34378f9f-5ccf-4c30-84af-866b6d1fba30",
+      "name": "ESPN Deportes-PMESDP",
+      "callLetters": "PMESDP",
+      "role": "station",
+      "internalId": 253
+    },
+    {
+      "uuid": "9cbdbb38-7650-4312-8aa4-d9e91f9e7b3d",
+      "name": "College Sports Radio-PMGUID",
+      "callLetters": "PMGUID",
+      "role": "station",
+      "internalId": 254
+    },
+    {
+      "uuid": "b25f8f16-206c-4e74-b91f-143b92df1398",
+      "name": "PGA Tour Network-PMGOLF",
+      "callLetters": "PMGOLF",
+      "role": "station",
+      "internalId": 255
+    },
+    {
+      "uuid": "3bd90118-56bb-4e23-8f54-3695c4fa5cdc",
+      "name": "ACC Radio-PMCACC",
+      "callLetters": "PMCACC",
+      "role": "station",
+      "internalId": 256
+    },
+    {
+      "uuid": "d79c7806-da09-4c69-a43b-cc37f65e7381",
+      "name": "PAC-12 Radio-PMCPAC",
+      "callLetters": "PMCPAC",
+      "role": "station",
+      "internalId": 257
+    },
+    {
+      "uuid": "86a4f1bd-b584-469c-8ef6-a74d957b6325",
+      "name": "Generation Z-PMGENZ",
+      "callLetters": "PMGENZ",
+      "role": "station",
+      "internalId": 258
+    },
+    {
+      "uuid": "cfc3ea9f-92b7-4b66-934d-4a4075f0651d",
+      "name": "MLB Web Barker-BWMLBG",
+      "callLetters": "BWMLBG",
+      "role": "station",
+      "internalId": 259
+    },
+    {
+      "uuid": "97eac65e-0a83-4235-b2dd-8d13435b050d",
+      "name": "CBS Sports Radio-PMSPCB",
+      "callLetters": "PMSPCB",
+      "role": "station",
+      "internalId": 260
+    },
+    {
+      "uuid": "c317146b-d35c-4687-b8f4-b0b31f98aadc",
+      "name": "NHL Network Radio-PMPUCK",
+      "callLetters": "PMPUCK",
+      "role": "station",
+      "internalId": 261
+    },
+    {
+      "uuid": "fae8b175-08ec-45fa-995c-6da36e9bad79",
+      "name": "Fantasy Sports Radio-PMFANT",
+      "callLetters": "PMFANT",
+      "role": "station",
+      "internalId": 262
+    },
+    {
+      "uuid": "95fa5296-fc41-4db1-959d-20919dc5db49",
+      "name": "Bloomberg Radio-PMNWBU",
+      "callLetters": "PMNWBU",
+      "role": "station",
+      "internalId": 263
+    },
+    {
+      "uuid": "d4b5304b-73a2-40cc-bb84-d7e616e22152",
+      "name": "Family Talk-PMCHTK",
+      "callLetters": "PMCHTK",
+      "role": "station",
+      "internalId": 264
+    },
+    {
+      "uuid": "4898c884-0fcc-4ffb-839e-6b1ea4fdaf8a",
+      "name": "Rural Radio-PMFARM",
+      "callLetters": "PMFARM",
+      "role": "station",
+      "internalId": 265
+    },
+    {
+      "uuid": "574a03e3-ddf9-41c1-8dd3-718bb6903dca",
+      "name": "KISS-LA-PMCHR1",
+      "callLetters": "PMCHR1",
+      "role": "station",
+      "internalId": 266
+    },
+    {
+      "uuid": "5300322b-afb4-438d-b9a0-15af2413696c",
+      "name": "Z100-PMACON",
+      "callLetters": "PMACON",
+      "role": "station",
+      "internalId": 267
+    },
+    {
+      "uuid": "7064219b-3993-49c7-98ec-9ad403c64e02",
+      "name": "POTUS Politics-PMPRES",
+      "callLetters": "PMPRES",
+      "role": "station",
+      "internalId": 268
+    },
+    {
+      "uuid": "0615444c-647f-47ff-aa06-92a643e45b9c",
+      "name": "Urban View-PMAFTK",
+      "callLetters": "PMAFTK",
+      "role": "station",
+      "internalId": 269
+    },
+    {
+      "uuid": "dfc13405-3ccb-45a2-a422-fadbf985117c",
+      "name": "Fox News Talk-PMFXTK",
+      "callLetters": "PMFXTK",
+      "role": "station",
+      "internalId": 270
+    },
+    {
+      "uuid": "6a1ced59-6f99-4bda-81dd-b9cc78a4cee6",
+      "name": "Vegas Stats-PMVSIN",
+      "callLetters": "PMVSIN",
+      "role": "station",
+      "internalId": 271
+    },
+    {
+      "uuid": "d13b2ee7-2863-4a21-b02b-8a974f6e93f1",
+      "name": "Dan Patrick-PMSTDP",
+      "callLetters": "PMSTDP",
+      "role": "station",
+      "internalId": 272
+    },
+    {
+      "uuid": "b97df8ca-0714-4233-816a-1c8e4109c0f4",
+      "name": "Canada Talks-PMCNTK",
+      "callLetters": "PMCNTK",
+      "role": "station",
+      "internalId": 273
+    },
+    {
+      "uuid": "58818a39-6d51-419d-ba06-d0b14d0a2f16",
+      "name": "MLB Network Radio-PMMLB1",
+      "callLetters": "PMMLB1",
+      "role": "station",
+      "internalId": 274
+    },
+    {
+      "uuid": "ec1bc0e8-a881-4067-9e45-7280cf8555cf",
+      "name": "SEC Radio-PMCSEC",
+      "callLetters": "PMCSEC",
+      "role": "station",
+      "internalId": 275
+    },
+    {
+      "uuid": "2e3e9e10-82f1-486f-8682-ccc66be11941",
+      "name": "Vivid Radio-PMSPCE",
+      "callLetters": "PMSPCE",
+      "role": "station",
+      "internalId": 276
+    },
+    {
+      "uuid": "74535da9-a9f8-4f74-a740-b71e58c33d1f",
+      "name": "Horse Racing",
+      "role": "station",
+      "internalId": 277
+    },
+    {
+      "uuid": "af48a778-3ef2-47cb-870b-67f0bbdc0b2b",
+      "name": "Sports Info-PMBARK",
+      "callLetters": "PMBARK",
+      "role": "station",
+      "internalId": 278
+    },
+    {
+      "uuid": "9e061329-2691-45e9-8895-40175998f2eb",
+      "name": "DR_NASCAR-XDNSCR",
+      "callLetters": "XDNSCR",
+      "role": "station",
+      "internalId": 279
+    },
+    {
+      "uuid": "fbbc51c2-fdbf-4bea-9f7a-47dbe75e0d4b",
+      "name": "PRX-PMPRXX",
+      "callLetters": "PMPRXX",
+      "role": "station",
+      "internalId": 280
+    },
+    {
+      "uuid": "bd921d0c-7944-4327-9eab-cd74f04ca309",
+      "name": "Limited Edition Barker-BWLTEG",
+      "callLetters": "BWLTEG",
+      "role": "station",
+      "internalId": 281
+    },
+    {
+      "uuid": "b98770c5-7ab7-424e-b9a0-e4ccd714d827",
+      "name": "Universal Update-PMUPDT",
+      "callLetters": "PMUPDT",
+      "role": "station",
+      "internalId": 282
+    },
+    {
+      "uuid": "1ce35a21-7d17-4119-9211-477c4ec32277",
+      "name": "Big 10 Radio-PMCB10",
+      "callLetters": "PMCB10",
+      "role": "station",
+      "internalId": 283
+    },
+    {
+      "uuid": "f01ba0c0-9ff6-4f3f-95de-b9b3e44c0a2f",
+      "name": "Big 12 Radio-PMCB12",
+      "callLetters": "PMCB12",
+      "role": "station",
+      "internalId": 284
+    },
+    {
+      "uuid": "37d455c1-f2cc-4f91-bf67-433defd032dc",
+      "name": "SXM FC-PMSOCC",
+      "callLetters": "PMSOCC",
+      "role": "station",
+      "internalId": 285
+    },
+    {
+      "uuid": "8a84d758-2f0e-40cc-9a2a-676cc172f02e",
+      "name": "CNN en Espanol-PMHINW",
+      "callLetters": "PMHINW",
+      "role": "station",
+      "internalId": 286
+    },
+    {
+      "uuid": "b28f8ae5-fbcb-4c6c-88a1-dd5d1a5f77d2",
+      "name": "DR_SXM FC-XDSOCC",
+      "callLetters": "XDSOCC",
+      "role": "station",
+      "internalId": 287
+    },
+    {
+      "uuid": "9f96d39d-4ea7-418b-98e7-81f1edeaab93",
+      "name": "Sports General",
+      "role": "station",
+      "internalId": 288
+    },
+    {
+      "uuid": "7fe84864-7af5-4cf4-a8f0-98693ca8f6c6",
+      "name": "News Talk General",
+      "role": "station",
+      "internalId": 289
+    },
+    {
+      "uuid": "4beb9ba1-dc70-4f48-a34b-8f37ca054463",
+      "name": "IP 70s Love",
+      "role": "virtualStation",
+      "internalId": 290
+    },
+    {
+      "uuid": "d68afed3-42f8-4dea-8a50-d67297fe926f",
+      "name": "IP 60s 70s",
+      "role": "virtualStation",
+      "internalId": 291
+    },
+    {
+      "uuid": "a3fb4041-3ab5-4896-b03c-53cd88cfd689",
+      "name": "IP 70s 80s 90s",
+      "role": "virtualStation",
+      "internalId": 292
+    },
+    {
+      "uuid": "9a79ae4f-9223-4d31-8185-dab2cd051c30",
+      "name": "IP 80s 90s 2000s",
+      "role": "virtualStation",
+      "internalId": 293
+    },
+    {
+      "uuid": "eb891f8b-a5a3-4bce-b049-2e5bed8b4b68",
+      "name": "IP Prom Radio",
+      "role": "virtualStation",
+      "internalId": 294
+    },
+    {
+      "uuid": "43f99371-c70f-4c88-ac6c-e5552e93a2b8",
+      "name": "IP Wedding Party",
+      "role": "virtualStation",
+      "internalId": 295
+    },
+    {
+      "uuid": "61372286-8299-4204-be45-a20e65df9e4b",
+      "name": "IP Country n Chill",
+      "role": "virtualStation",
+      "internalId": 296
+    },
+    {
+      "uuid": "708a447c-49f0-4d46-9dca-126b373d1c98",
+      "name": "IP Classic Pop & Country",
+      "role": "virtualStation",
+      "internalId": 297
+    },
+    {
+      "uuid": "90e18e62-5807-424b-a31a-d4c4c71dde03",
+      "name": "IP Country Classics Mix",
+      "role": "virtualStation",
+      "internalId": 298
+    },
+    {
+      "uuid": "5282c9cd-31aa-44ec-a3db-39f7e663479b",
+      "name": "IP New & Classic Rock",
+      "role": "virtualStation",
+      "internalId": 299
+    },
+    {
+      "uuid": "9150772d-2a9d-4467-abcf-84bd9ab50339",
+      "name": "DR_PGA Tour-XDGOLF",
+      "callLetters": "XDGOLF",
+      "role": "station",
+      "internalId": 300
+    },
+    {
+      "uuid": "67ad12d5-e94e-4b4e-8b56-82239c216f62",
+      "name": "DR_Urban View-XDAFTK",
+      "callLetters": "XDAFTK",
+      "role": "station",
+      "internalId": 301
+    },
+    {
+      "uuid": "2af0778b-5965-409f-9886-9db679912002",
+      "name": "DR_Fantasy Sports-XDFANT",
+      "callLetters": "XDFANT",
+      "role": "station",
+      "internalId": 302
+    },
+    {
+      "uuid": "3f4776fe-c8c3-4478-9b2b-f7def115d8e0",
+      "name": "DR_POTUS-XDPRES",
+      "callLetters": "XDPRES",
+      "role": "station",
+      "internalId": 303
+    },
+    {
+      "uuid": "7dc5fad5-a676-4e6b-bb33-1a621cf3c51b",
+      "name": "IP Tailgate Radio",
+      "role": "virtualStation",
+      "internalId": 304
+    },
+    {
+      "uuid": "81dc1de9-7cc5-40f6-84fb-6681b3d3a89e",
+      "name": "IP Country & Pop Mix",
+      "role": "virtualStation",
+      "internalId": 305
+    },
+    {
+      "uuid": "f991aa6d-a927-491f-b832-985db1a70dd2",
+      "name": "IP Country & Pop Party",
+      "role": "virtualStation",
+      "internalId": 306
+    },
+    {
+      "uuid": "f2362162-c192-479a-8fcc-7d23eb681b5f",
+      "name": "Patriot-PMPATR",
+      "callLetters": "PMFMTK",
+      "role": "station",
+      "internalId": 307
+    },
+    {
+      "uuid": "c02e951e-e57f-4b5d-81d3-757d9d3e20a8",
+      "name": "NPR NOW-PMNPRN",
+      "callLetters": "PMNPRN",
+      "role": "station",
+      "internalId": 308
+    },
+    {
+      "uuid": "df7a031e-b815-498d-ae0a-e2b6b86a2e6a",
+      "name": "Telemundo-PMLENT",
+      "callLetters": "PMLENT",
+      "role": "station",
+      "internalId": 309
+    },
+    {
+      "uuid": "2c8d79dc-5993-47bb-9822-dfe964494a68",
+      "name": "Sports 201-PMSP03",
+      "callLetters": "PMSP03",
+      "role": "station",
+      "internalId": 310
+    },
+    {
+      "uuid": "d956030e-67f5-4282-879f-106b6e9bf0fe",
+      "name": "Sports 202-PMSP33",
+      "callLetters": "PMSP33",
+      "role": "station",
+      "internalId": 311
+    },
+    {
+      "uuid": "dae1500f-75ce-4265-ac2d-490f0c41bcef",
+      "name": "Sports 203-PMSP32",
+      "callLetters": "PMSP32",
+      "role": "station",
+      "internalId": 312
+    },
+    {
+      "uuid": "c7bf9b14-1622-45e8-8c0f-596f2ea30e9b",
+      "name": "Ramsey Media-PMRAMS",
+      "callLetters": "PMRAMS",
+      "role": "station",
+      "internalId": 313
+    },
+    {
+      "uuid": "a0943e19-587c-4f4f-9b72-4c28cb9814a6",
+      "name": "ESPN RADIO-PMSPTS",
+      "callLetters": "PMSPTS",
+      "role": "station",
+      "internalId": 314
+    },
+    {
+      "uuid": "f1a5abfa-3067-437f-a0d3-54a6adc484fc",
+      "name": "EWTN-PMEWTN",
+      "callLetters": "PMEWTN",
+      "role": "station",
+      "internalId": 315
+    },
+    {
+      "uuid": "25f389fc-d988-4223-a1da-458e5fb8599d",
+      "name": "Insight-PMPRAD",
+      "callLetters": "PMPRAD",
+      "role": "station",
+      "internalId": 316
+    },
+    {
+      "uuid": "8ea578d3-e71f-4326-81e9-daf8535fb0ac",
+      "name": "Netflix-PMNTFX",
+      "callLetters": "PMNTFX",
+      "role": "station",
+      "internalId": 317
+    },
+    {
+      "uuid": "66e47d31-3444-414c-9256-f20a2c4996b1",
+      "name": "Barstool-PMBRST",
+      "callLetters": "PMBRST",
+      "role": "station",
+      "internalId": 318
+    },
+    {
+      "uuid": "4f239a2c-c833-48c6-884d-2a96adcf69c7",
+      "name": "Progress-PMSLFT",
+      "callLetters": "PMSLFT",
+      "role": "station",
+      "internalId": 319
+    },
+    {
+      "uuid": "3df7ba9d-56e9-4a7e-bd40-660e7f29dbfc",
+      "name": "Catholic Channel-PMPOPE",
+      "callLetters": "PMPOPE",
+      "role": "station",
+      "internalId": 320
+    },
+    {
+      "uuid": "c02655e7-50b7-44e5-a46e-00d131d56455",
+      "name": "Entertainment Weekly-PMENTR",
+      "callLetters": "PMENTR",
+      "role": "station",
+      "internalId": 321
+    },
+    {
+      "uuid": "74daeadf-81f8-4110-8475-5cc6eaca32a0",
+      "name": "Fight Nation-PMSPN2",
+      "callLetters": "PMSPN2",
+      "role": "station",
+      "internalId": 322
+    },
+    {
+      "uuid": "573c766d-cfb8-4051-b906-c82591b4619b",
+      "name": "Joel Osteen Radio-PMTLK1",
+      "callLetters": "PMTLK1",
+      "role": "station",
+      "internalId": 323
+    },
+    {
+      "uuid": "e2b25dac-347f-42e6-82d4-c0280072bca9",
+      "name": "Mad Dog Radio-PMSPTK",
+      "callLetters": "PMSPTK",
+      "role": "station",
+      "internalId": 324
+    },
+    {
+      "uuid": "7697f562-a518-4c93-8b11-f2c1e35187cb",
+      "name": "NBA Radio-PMNBA1",
+      "callLetters": "PMNBA1",
+      "role": "station",
+      "internalId": 325
+    },
+    {
+      "uuid": "18cd7542-1331-4f4a-a5ca-821fa80e8704",
+      "name": "NFL Radio-PMNFL1",
+      "callLetters": "PMNFL1",
+      "role": "station",
+      "internalId": 326
+    },
+    {
+      "uuid": "44f71457-d925-47b2-902e-4e0fc5c3c6f2",
+      "name": "Billy Graham Radio-PMCTBG",
+      "callLetters": "PMCTBG",
+      "role": "station",
+      "internalId": 327
+    },
+    {
+      "uuid": "9c5bb914-1a02-476f-9659-dda43048ae48",
+      "name": "Doctor Radio-PMMED1",
+      "callLetters": "PMMED1",
+      "role": "station",
+      "internalId": 328
+    },
+    {
+      "uuid": "3dc25a4f-5cc5-413e-b5f0-474b043327b4",
+      "name": "Business Radio-PMBZED",
+      "callLetters": "PMBZED",
+      "role": "station",
+      "internalId": 329
+    },
+    {
+      "uuid": "9963f0ad-6129-418e-bcdc-e90912a6764f",
+      "name": "Radio Andy-PMANDY",
+      "callLetters": "PMANDY",
+      "role": "station",
+      "internalId": 330
+    },
+    {
+      "uuid": "376048e6-c6f0-4629-8c63-5cecbcad7fa0",
+      "name": "Today Show Radio-PM2DAY",
+      "callLetters": "PM2DAY",
+      "role": "station",
+      "internalId": 331
+    },
+    {
+      "uuid": "6c6eb85e-dbfb-4eb8-823c-8c6f4a9f5cac",
+      "name": "Triumph-PMBSNW",
+      "callLetters": "PMBSNW",
+      "role": "station",
+      "internalId": 332
+    },
+    {
+      "uuid": "0f8d88c5-f22f-4eb0-8d03-dcadbe4c0376",
+      "name": "Volume-PMLOUD",
+      "callLetters": "PMLOUD",
+      "role": "station",
+      "internalId": 333
+    },
+    {
+      "uuid": "bf233b15-ba7f-4533-93e3-cbd377e7f2b4",
+      "name": "Howard 101-PMHOW2",
+      "callLetters": "PMHOW2",
+      "role": "station",
+      "internalId": 334
+    },
+    {
+      "uuid": "829d5378-57da-4257-81a9-c8b63536b5fe",
+      "name": "Howard 100-PMHOW1",
+      "callLetters": "PMHOW1",
+      "role": "station",
+      "internalId": 335
+    },
+    {
+      "uuid": "0c415708-a21a-4052-9dfc-03ee89b70b3c",
+      "name": "Pandora Now-PMPNDN",
+      "callLetters": "PMPNDN",
+      "role": "station",
+      "internalId": 336
+    },
+    {
+      "uuid": "6af80e2d-ddac-4a0f-8030-f2504f6ce8bc",
+      "name": "Top 1000-PMTP1K",
+      "callLetters": "PMTP1K",
+      "role": "station",
+      "internalId": 337
+    },
+    {
+      "uuid": "3247c933-358f-4140-8730-446f66d6f23b",
+      "name": "Utility Player 2-PMUTL2",
+      "callLetters": "PMUTL2",
+      "role": "station",
+      "internalId": 338
+    },
+    {
+      "uuid": "a8d35e75-7b2e-4068-bd1e-83002d478296",
+      "name": "Valentine-PMVALT",
+      "callLetters": "PMVALT",
+      "role": "station",
+      "internalId": 339
+    },
+    {
+      "uuid": "4f9b6285-0625-4e21-8925-1a74b3ec4403",
+      "name": "PxP 04 - Chicago Bulls",
+      "callLetters": "PMPB04",
+      "role": "station",
+      "internalId": 340
+    },
+    {
+      "uuid": "b784f039-1942-4894-a1de-68be6cda88bf",
+      "name": "PxP 05 - Cleveland Cavaliers",
+      "callLetters": "PMPB05",
+      "role": "station",
+      "internalId": 341
+    },
+    {
+      "uuid": "304fbe61-ac57-4a14-a4b2-9185afd3eeba",
+      "name": "PxP 06 - Dallas Mavericks",
+      "callLetters": "PMPB06",
+      "role": "station",
+      "internalId": 342
+    },
+    {
+      "uuid": "91853f5b-5274-439e-a8de-97182bf27df4",
+      "name": "PxP 01 - Atlanta Hawks",
+      "callLetters": "PMPB01",
+      "role": "station",
+      "internalId": 343
+    },
+    {
+      "uuid": "697a24aa-b792-488c-92cd-269b089e7836",
+      "name": "PxP 02 - Boston Celtics",
+      "callLetters": "PMPB02",
+      "role": "station",
+      "internalId": 344
+    },
+    {
+      "uuid": "4f9c89e1-2d5a-4e2d-98ee-ee039a0f11ae",
+      "name": "PxP 07 - Denver Nuggets",
+      "callLetters": "PMPB07",
+      "role": "station",
+      "internalId": 345
+    },
+    {
+      "uuid": "c90a3448-b61c-41a9-9cae-3951e5c1dd1c",
+      "name": "PxP 08 - Detroit Pistons",
+      "callLetters": "PMPB08",
+      "role": "station",
+      "internalId": 346
+    },
+    {
+      "uuid": "36610c7c-72c6-46e3-a2c0-328b112551d6",
+      "name": "PxP 09 - Golden State Warriors",
+      "callLetters": "PMPB09",
+      "role": "station",
+      "internalId": 347
+    },
+    {
+      "uuid": "b57f5dc2-2110-4082-8e7e-20e0af04bf62",
+      "name": "PxP 10 - Houston Rockets",
+      "callLetters": "PMPB10",
+      "role": "station",
+      "internalId": 348
+    },
+    {
+      "uuid": "b6aaf1da-390d-4d1a-a38c-d28dd08430ca",
+      "name": "PxP 11 - Indiana Pacers",
+      "callLetters": "PMPB11",
+      "role": "station",
+      "internalId": 349
+    },
+    {
+      "uuid": "baa68a7f-2758-4d3b-bd05-ec19ca8d18c0",
+      "name": "PxP 03 - Charlotte Hornets",
+      "callLetters": "PMPB03",
+      "role": "station",
+      "internalId": 350
+    },
+    {
+      "uuid": "56d5d8cd-8970-49a5-9456-12c6c7153726",
+      "name": "PxP 12 - LA Clippers",
+      "callLetters": "PMPB12",
+      "role": "station",
+      "internalId": 351
+    },
+    {
+      "uuid": "6e50a629-9957-41cd-b8a1-2e98e73690a0",
+      "name": "PxP 13 - Memphis Grizzlies",
+      "callLetters": "PMPB13",
+      "role": "station",
+      "internalId": 352
+    },
+    {
+      "uuid": "ff352f30-8fa1-4b4a-8b22-8a79fdc04a95",
+      "name": "PxP 14 - Miami Heat",
+      "callLetters": "PMPB14",
+      "role": "station",
+      "internalId": 353
+    },
+    {
+      "uuid": "40d4bfbd-dbd4-4ea4-a530-d656af823be5",
+      "name": "PxP 15 - Milwaukee Bucks",
+      "callLetters": "PMPB15",
+      "role": "station",
+      "internalId": 354
+    },
+    {
+      "uuid": "9008696a-eeea-4c6b-bf4d-96c3adf3fb3f",
+      "name": "PxP 16 - Minnesota Timberwolves",
+      "callLetters": "PMPB16",
+      "role": "station",
+      "internalId": 355
+    },
+    {
+      "uuid": "62928b9f-7cab-4e6c-83d1-6bcceefd0e60",
+      "name": "PxP 17 - New Orleans Pelicans",
+      "callLetters": "PMPB17",
+      "role": "station",
+      "internalId": 356
+    },
+    {
+      "uuid": "631607d7-adc2-47b5-94e0-b74791dcd1bb",
+      "name": "PxP 18 - Oklahoma City Thunder",
+      "callLetters": "PMPB18",
+      "role": "station",
+      "internalId": 357
+    },
+    {
+      "uuid": "cb482443-7838-482e-9e24-6ced3ab7130b",
+      "name": "PxP 19 - Orlando Magic",
+      "callLetters": "PMPB19",
+      "role": "station",
+      "internalId": 358
+    },
+    {
+      "uuid": "e305ed9a-109a-4638-a987-2f9d9e68e688",
+      "name": "PxP 20 - Philadelphia 76ers",
+      "callLetters": "PMPB20",
+      "role": "station",
+      "internalId": 359
+    },
+    {
+      "uuid": "1d969fe6-f9b0-4170-ba99-f890b46a0335",
+      "name": "PxP 21 - Phoenix Suns",
+      "callLetters": "PMPB21",
+      "role": "station",
+      "internalId": 360
+    },
+    {
+      "uuid": "0e832f17-bf08-4822-8aa2-43b0be597f95",
+      "name": "PxP 22 - Portland Trail Blazers",
+      "callLetters": "PMPB22",
+      "role": "station",
+      "internalId": 361
+    },
+    {
+      "uuid": "9982fa0c-f778-4314-be3e-bc586622fac5",
+      "name": "PxP 23 - Sacramento Kings",
+      "callLetters": "PMPB23",
+      "role": "station",
+      "internalId": 362
+    },
+    {
+      "uuid": "5d496884-7161-4cb9-887d-379ac63e2706",
+      "name": "PxP 24 - San Antonio Spurs",
+      "callLetters": "PMPB24",
+      "role": "station",
+      "internalId": 363
+    },
+    {
+      "uuid": "85781c98-421c-479e-ae57-d31e9c125e53",
+      "name": "PxP 25 - Utah Jazz",
+      "callLetters": "PMPB25",
+      "role": "station",
+      "internalId": 364
+    },
+    {
+      "uuid": "46ed51c8-4ae2-40d1-aa4e-6b513b4099a7",
+      "name": "PxP 26 - Washington Wizards",
+      "callLetters": "PMPB26",
+      "role": "station",
+      "internalId": 365
+    },
+    {
+      "uuid": "27a3b6eb-26f4-46a9-aa6c-9d021ad18aac",
+      "name": "PxP 27 - Arizona Diamondbacks",
+      "callLetters": "PMPB27",
+      "role": "station",
+      "internalId": 366
+    },
+    {
+      "uuid": "a9e758d7-14f6-4c79-9eb6-fbb910af7428",
+      "name": "PxP 28 - Atlanta Braves",
+      "callLetters": "PMPB28",
+      "role": "station",
+      "internalId": 367
+    },
+    {
+      "uuid": "046ca223-24f8-42e1-b436-60b3830acf87",
+      "name": "PxP 29 - Boston Red Sox",
+      "callLetters": "PMPB29",
+      "role": "station",
+      "internalId": 368
+    },
+    {
+      "uuid": "5f2e1504-d0a6-4e6c-9af5-465b165fc509",
+      "name": "PxP 30 - Chicago Cubs",
+      "callLetters": "PMPB30",
+      "role": "station",
+      "internalId": 369
+    },
+    {
+      "uuid": "6e296212-411e-4fe1-abf3-da391fd74ab9",
+      "name": "PxP 31 - Cincinnati Reds",
+      "callLetters": "PMPB31",
+      "role": "station",
+      "internalId": 370
+    },
+    {
+      "uuid": "a8834856-d049-4842-8e24-126b51fcc250",
+      "name": "PxP 32 - Cleveland Indians",
+      "callLetters": "PMPB32",
+      "role": "station",
+      "internalId": 371
+    },
+    {
+      "uuid": "97ece519-3f5b-49dd-8500-acb6e8a9a4b9",
+      "name": "PxP 33 - Colorado Rockies",
+      "callLetters": "PMPB33",
+      "role": "station",
+      "internalId": 372
+    },
+    {
+      "uuid": "e8340410-0bf9-4566-b9cc-c7c8380985a6",
+      "name": "PxP 34 - Chicago White Sox",
+      "callLetters": "PMPB34",
+      "role": "station",
+      "internalId": 373
+    },
+    {
+      "uuid": "d8e491e7-7d99-41a6-8da1-4b38a9f25c8c",
+      "name": "PxP 35 - Detroit Tigers",
+      "callLetters": "PMPB35",
+      "role": "station",
+      "internalId": 374
+    },
+    {
+      "uuid": "51fbcd03-03cc-4af2-a777-7966236655ad",
+      "name": "PxP 36 - Houston Astros",
+      "callLetters": "PMPB36",
+      "role": "station",
+      "internalId": 375
+    },
+    {
+      "uuid": "aa5733b8-e5f2-4bfb-b089-dad38e93d4c1",
+      "name": "PxP 37 - Kansas City Royals",
+      "callLetters": "PMPB37",
+      "role": "station",
+      "internalId": 376
+    },
+    {
+      "uuid": "2a934695-d588-4732-b499-d89d3521a417",
+      "name": "PxP 38 - Los Angeles Dodgers",
+      "callLetters": "PMPB38",
+      "role": "station",
+      "internalId": 377
+    },
+    {
+      "uuid": "7bd36792-cb2f-43b6-9695-e4a20fb355fe",
+      "name": "PxP 39 - Los Angeles Angels",
+      "callLetters": "PMPB39",
+      "role": "station",
+      "internalId": 378
+    },
+    {
+      "uuid": "655094ab-2d6c-471b-99b8-fc68cbb48cf4",
+      "name": "PxP 40 - Miami Marlins",
+      "callLetters": "PMPB40",
+      "role": "station",
+      "internalId": 379
+    },
+    {
+      "uuid": "10a5dcca-214b-43eb-bdde-8018c253101d",
+      "name": "PxP 41 - Milwaukee Brewers",
+      "callLetters": "PMPB41",
+      "role": "station",
+      "internalId": 380
+    },
+    {
+      "uuid": "2cf86d22-09d4-4268-bc1a-42b0c514253b",
+      "name": "PxP 42 - Minnesota Twins",
+      "callLetters": "PMPB42",
+      "role": "station",
+      "internalId": 381
+    },
+    {
+      "uuid": "15d0cc02-a69a-4c4b-a197-03093a2caf67",
+      "name": "PxP 43 - New York Mets",
+      "callLetters": "PMPB43",
+      "role": "station",
+      "internalId": 382
+    },
+    {
+      "uuid": "961fb03e-f454-4409-9ea0-b7ffcb3547a8",
+      "name": "PxP 44 - New York Yankees",
+      "callLetters": "PMPB44",
+      "role": "station",
+      "internalId": 383
+    },
+    {
+      "uuid": "eba17a30-5560-44ed-b3f4-83511e020e3d",
+      "name": "PxP 45 - Oakland Athletics",
+      "callLetters": "PMPB45",
+      "role": "station",
+      "internalId": 384
+    },
+    {
+      "uuid": "6e4a790d-415e-4bc4-9aec-b21c9fa8ce6f",
+      "name": "PxP 46 - Pittsburgh Pirates",
+      "callLetters": "PMPB46",
+      "role": "station",
+      "internalId": 385
+    },
+    {
+      "uuid": "c16faf52-fd54-4042-85f4-fd6dbd93a5d5",
+      "name": "PxP 47 - Seattle Mariners",
+      "callLetters": "PMPB47",
+      "role": "station",
+      "internalId": 386
+    },
+    {
+      "uuid": "45b0592d-298d-4b3a-beee-64f82f8dfbe6",
+      "name": "PxP 48 - St. Louis Cardinals",
+      "callLetters": "PMPB48",
+      "role": "station",
+      "internalId": 387
+    },
+    {
+      "uuid": "cbf95f38-5b2b-48c6-a839-dc98d22a9280",
+      "name": "PxP 49 - Tampa Bay Rays",
+      "callLetters": "PMPB49",
+      "role": "station",
+      "internalId": 388
+    },
+    {
+      "uuid": "e58dee9c-b109-41f8-8d95-e30fa4d52eed",
+      "name": "PxP 50 - Texas Rangers",
+      "callLetters": "PMPB50",
+      "role": "station",
+      "internalId": 389
+    },
+    {
+      "uuid": "48516fd1-9023-4383-9c39-0d38222749e4",
+      "name": "PxP 51 - Toronto Blue Jays",
+      "callLetters": "PMPB51",
+      "role": "station",
+      "internalId": 390
+    },
+    {
+      "uuid": "14f014c3-2524-4a4c-8c6c-78d9b6c5b1a0",
+      "name": "PxP 52 - Washington Nationals",
+      "callLetters": "PMPB52",
+      "role": "station",
+      "internalId": 391
+    },
+    {
+      "uuid": "95ab21d5-4c43-42a9-b105-6ef5e8414e11",
+      "name": "PxP 53",
+      "callLetters": "PMPB53",
+      "role": "station",
+      "internalId": 392
+    },
+    {
+      "uuid": "58d68359-211c-4dce-aeef-a3f1c2f4def6",
+      "name": "PxP 54",
+      "callLetters": "PMPB54",
+      "role": "station",
+      "internalId": 393
+    },
+    {
+      "uuid": "107878e0-6463-4450-a6ac-5d2fef9c6fd4",
+      "name": "PxP 55",
+      "callLetters": "PMPB55",
+      "role": "station",
+      "internalId": 394
+    },
+    {
+      "uuid": "dded80fe-fbd9-4172-934e-79efe4d3a077",
+      "name": "PxP 56",
+      "callLetters": "PMPB56",
+      "role": "station",
+      "internalId": 395
+    },
+    {
+      "uuid": "1901e52d-7d3f-4aca-8cfe-c36d038430fb",
+      "name": "PxP 57",
+      "callLetters": "PMPB57",
+      "role": "station",
+      "internalId": 396
+    },
+    {
+      "uuid": "dc4fcd61-31d0-4b3d-8ff5-201486005ef9",
+      "name": "PxP 58",
+      "callLetters": "PMPB58",
+      "role": "station",
+      "internalId": 397
+    },
+    {
+      "uuid": "fa53ca27-e15e-47ee-aab0-107ad428c0da",
+      "name": "PxP 59",
+      "callLetters": "PMPB59",
+      "role": "station",
+      "internalId": 398
+    },
+    {
+      "uuid": "fc0bb493-b3f6-4383-adc0-dcbf8dade710",
+      "name": "PxP 60",
+      "callLetters": "PMPB60",
+      "role": "station",
+      "internalId": 399
+    },
+    {
+      "uuid": "ad6bdc52-c42c-459e-b846-f4f66f66f07f",
+      "name": "SportsCenter-PMSPCR",
+      "callLetters": "PMSPCR",
+      "role": "station",
+      "internalId": 400
+    },
+    {
+      "uuid": "28faaf24-5040-485c-b03f-f10c37ee7efa",
+      "name": "Limited Edition-PMLTE1",
+      "callLetters": "PMLTE1",
+      "role": "station",
+      "internalId": 401
+    },
+    {
+      "uuid": "7391dda4-6c44-4dd9-bdc0-4090a29bd462",
+      "name": "HUR Voices-PMQE01",
+      "callLetters": "PMQE01",
+      "role": "station",
+      "internalId": 402
+    },
+    {
+      "uuid": "336c80e6-3e5f-434d-9b81-49cb0ad92b93",
+      "name": "Fox News-PMFOXN",
+      "callLetters": "PMFOXN",
+      "role": "station",
+      "internalId": 403
+    },
+    {
+      "uuid": "266189e2-84e1-4fc6-8c85-e9c51c2af876",
+      "name": "MLB Play By Play 176",
+      "callLetters": "PMSP10",
+      "role": "station",
+      "internalId": 404
+    },
+    {
+      "uuid": "84a18d58-78b9-4183-9238-5cf15c48320f",
+      "name": "Pooled Playlist 01",
+      "role": "station",
+      "internalId": 405
+    },
+    {
+      "uuid": "b131bdab-cfd2-4e7d-b577-c3fb2ecca632",
+      "name": "Ad Replacement Test",
+      "callLetters": "PMADRP",
+      "role": "station",
+      "internalId": 406
+    },
+    {
+      "uuid": "171073f3-32c6-47fa-bb75-3111a4a0d3d9",
+      "name": "Pooled Playlist 03",
+      "role": "station",
+      "internalId": 407
+    },
+    {
+      "uuid": "f5de82e6-840e-4bd0-b761-5fb653f34867",
+      "name": "Pooled Playlist 04",
+      "role": "station",
+      "internalId": 408
+    },
+    {
+      "uuid": "12b77d2d-53b2-4504-9084-15f01aca6f96",
+      "name": "Returns Later | Pooled Playlist 05",
+      "callLetters": "RETLATER",
+      "role": "station",
+      "internalId": 409
+    },
+    {
+      "uuid": "40880894-5907-4a40-9fed-f1d5431fb50b",
+      "name": "PxP NFL - Atlanta Falcons-PMPB02",
+      "role": "station",
+      "internalId": 410
+    },
+    {
+      "uuid": "fb12af87-c246-4678-8d43-1801b2fe4b8e",
+      "name": "Pooled Playlist TBD",
+      "role": "station",
+      "internalId": 411
+    },
+    {
+      "uuid": "e072119f-cf1d-4a2c-b31a-68d50c379e89",
+      "name": "Pooled Playlist 08",
+      "role": "station",
+      "internalId": 412
+    },
+    {
+      "uuid": "74aa6204-55fe-4ba3-902c-14406d9ff981",
+      "name": "Pooled Playlist 09",
+      "role": "station",
+      "internalId": 413
+    },
+    {
+      "uuid": "f2d0db31-0539-4f33-a2d6-4e4ed25d56b5",
+      "name": "NY Traffic-PMYORK",
+      "callLetters": "PMYORK",
+      "role": "station",
+      "internalId": 414
+    },
+    {
+      "uuid": "4ec37a15-c7b0-4c7c-803b-b5a45ab05a47",
+      "name": "Bos-Phi-DC Traffic-",
+      "callLetters": "PMBPHP",
+      "role": "station",
+      "internalId": 415
+    },
+    {
+      "uuid": "84d48483-0e85-42b0-bfeb-19277db90e6d",
+      "name": "Chi-Det-DFW Traffic-PMCHDT",
+      "callLetters": "PMCHDT",
+      "role": "station",
+      "internalId": 416
+    },
+    {
+      "uuid": "65c2273a-6cd3-4457-9f49-ef71baffc010",
+      "name": "LA Traffic-PMLOSA",
+      "callLetters": "PMLOSA",
+      "role": "station",
+      "internalId": 417
+    },
+    {
+      "uuid": "b55ec3f4-c6a8-422f-bd04-dfeb285d89e5",
+      "name": "MSNBC-PMMSNB",
+      "callLetters": "PMMSNB",
+      "role": "station",
+      "internalId": 418
+    },
+    {
+      "uuid": "46981c1b-c810-404e-a5b5-78c8c3c4b146",
+      "name": "CNN-PMNEWS",
+      "callLetters": "PMNEWS",
+      "role": "station",
+      "internalId": 419
+    },
+    {
+      "uuid": "f95ffb01-23ee-4880-9871-fa1a19b37161",
+      "name": "CNN HDLN-PMHDNW",
+      "callLetters": "PMHDNW",
+      "role": "station",
+      "internalId": 420
+    },
+    {
+      "uuid": "d09f158a-2f2a-4c6d-920e-8bebc7402ab4",
+      "name": "CNBC-PMCNBC",
+      "callLetters": "PMCNBC",
+      "role": "station",
+      "internalId": 421
+    },
+    {
+      "uuid": "5ad1de78-54d9-47df-998f-e969c4d2dfa1",
+      "name": "Rogers Canada",
+      "role": "station",
+      "internalId": 422
+    },
+    {
+      "uuid": "36c286c8-466b-4d8f-806f-cefcb53c6367",
+      "name": "Rogers TDA Barker",
+      "callLetters": "BKRGRS",
+      "role": "station",
+      "internalId": 424
+    }
+  ],
+  "responseType": "success",
+  "syncCounter": 2764870
+}

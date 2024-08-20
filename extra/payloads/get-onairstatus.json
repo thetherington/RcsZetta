@@ -1,0 +1,53 @@
+{
+  "dataObject": {
+    "onAirStatusLogEvents": [
+      {
+        "playPosition": "00:01:25.5180000",
+        "duration": "00:02:08.7580000",
+        "durationToSegue": "00:02:07.5260000",
+        "uuid": "a192ea9e-b74a-41f7-aecb-20ce1d39ad27",
+        "type": "asset",
+        "assetType": "song",
+        "chainType": "segue",
+        "artist": "Louis Prima",
+        "title": "POLKA DOTS AND MOONBEAMS",
+        "statusCode": "playing",
+        "assetTypeName": "Song",
+        "editCode": "unknown",
+        "airTime": "2024-08-16T10:07:16.39504"
+      },
+      {
+        "duration": "00:02:54.7850000",
+        "durationToSegue": "00:02:52.8490000",
+        "uuid": "d49a39d0-f76a-4741-b298-ad4915e544dd",
+        "type": "asset",
+        "assetType": "song",
+        "chainType": "segue",
+        "artist": "Johnny Mann Singers (The)",
+        "title": "Portrait Of My Love",
+        "statusCode": "ready",
+        "assetTypeName": "Song",
+        "editCode": "unknown",
+        "airTime": "2024-08-16T10:09:23.9540545"
+      },
+      {
+        "duration": "00:02:14.5830000",
+        "durationToSegue": "00:02:13.3770000",
+        "uuid": "e08eccb4-667d-4ed8-9038-283cd25a5bd8",
+        "type": "asset",
+        "assetType": "song",
+        "chainType": "segue",
+        "artist": "HARRY OWENS  & HIS ROYAL HAWAII",
+        "title": "PRINCESS POO-POO-LY HAS PLENTY PAPAYA",
+        "statusCode": "ready",
+        "assetTypeName": "Song",
+        "editCode": "unknown",
+        "airTime": "2024-08-16T10:12:16.8030545"
+      }
+    ],
+    "mode": "auto",
+    "status": "onAir"
+  },
+  "responseType": "success",
+  "syncCounter": 3071667
+}
